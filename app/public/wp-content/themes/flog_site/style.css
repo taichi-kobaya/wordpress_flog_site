@@ -30,6 +30,10 @@ li {
   padding: 10px;
 }
 
+.pagenate {
+  text-align: center;
+}
+
 .post-heading {
   margin: 20px 0 20px 0;
 }
@@ -37,6 +41,14 @@ li {
 .post-heading h1,
 .post-heading p {
   text-align: center;
+}
+
+.post-subtitle {
+  font-size: 15px;
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+  justify-content: center;
 }
 
 .single-content {
@@ -47,6 +59,22 @@ li {
 
 .single-content p {
   text-align: left;
+}
+
+.zenkiji_img {
+  display: flex;
+  gap: 0 20px;
+  background: #faebd7;
+  padding: 10px;
+}
+
+.zenkiji_img p {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.thumbnail {
+  vertical-align: top;
 }
 
 #wrapper {
