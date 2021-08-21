@@ -18,10 +18,10 @@ Template Name: ずかん
             <?php while (have_posts()) : the_post(); ?>
 
                 <?php
-                $paged = (int) get_query_var('paged');
+                $paged = (get_query_var('page')) ? get_query_var('page') : 1;
                 $args = array(
-                    'posts_per_page' => 5, // 表示件数
-                    'paged' => $paged,
+                    'posts_per_page' => 10, // 表示件数
+                    'pag' => $paged,
                     'orderby' => 'post_date', // 並び順を日付順
                     'order' => 'DESC', // 並び順を降順
                     'post_type' => 'post', // 投稿の一覧を表示
