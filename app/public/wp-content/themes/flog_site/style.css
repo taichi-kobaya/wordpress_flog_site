@@ -77,6 +77,10 @@ li {
   vertical-align: top;
 }
 
+.main-feature {
+  text-align: center;
+}
+
 #wrapper {
   background: white;
   width: auto;
