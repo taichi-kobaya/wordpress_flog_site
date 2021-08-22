@@ -77,10 +77,13 @@ li {
   vertical-align: top;
 }
 
+<<<<<<< HEAD
 .main-feature {
   text-align: center;
 }
 
+=======
+>>>>>>> f107999c8cba0bf949c3358089eea892ce00dba8
 #wrapper {
   background: white;
   width: auto;
