@@ -42,3 +42,5 @@ Stack trace:
 [10-Aug-2021 01:58:14 UTC] PHP   2. require() /Users/taichi_kobayashi/Local Sites/wordpressflogsite/app/public/index.php:17
 [10-Aug-2021 01:58:14 UTC] PHP   3. require_once() /Users/taichi_kobayashi/Local Sites/wordpressflogsite/app/public/wp-blog-header.php:19
 [10-Aug-2021 01:58:14 UTC] PHP   4. include() /Users/taichi_kobayashi/Local Sites/wordpressflogsite/app/public/wp-includes/template-loader.php:106
+[24-Aug-2021 09:26:20 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE), expecting end of file in /Users/taichi_kobayashi/Local Sites/wordpressflogsite/app/public/wp-content/themes/flog_site/index.php on line 79
+[24-Aug-2021 09:26:20 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0

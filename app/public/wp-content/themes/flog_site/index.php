@@ -56,7 +56,12 @@
 
     <!--Ranking-->
     <div id="ranking"><img src="http://wordpressflogsite.local/wp-content/themes/flog_site/img/ranking.jpg" class="img-fluid" alt="..."></div>
-  </div>
+      <div class="ranking-top">
+        <a class="ranking-1" href="#"><img src="http://wordpressflogsite.local/wp-content/themes/flog_site/img/ichigo_yadoku-gold.jpg" class="img-fluid" alt="..."></a>
+        <a class="ranking-2" href="#"><img src="http://wordpressflogsite.local/wp-content/themes/flog_site/img/kobaruto_yadoku-silver.jpg" class="img-fluid" alt="..."></a>
+        <a class="ranking-3" href="#"><img src="http://wordpressflogsite.local/wp-content/themes/flog_site/img/kiobi_yadoku-bronze.jpg" class="img-fluid" alt="..."></a>
+      </div>
+    </div>
 
   <?php get_template_part('includes/footer'); ?>
 
