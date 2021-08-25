@@ -132,7 +132,7 @@ li {
   margin: 20px 20px;
 }
 
-#main-feature h2 {
+#main-feature h2,#main-img {
   display: flex;
   justify-content: center;
 }

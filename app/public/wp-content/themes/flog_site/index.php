@@ -60,6 +60,7 @@
     <!--main-feature-->
     <div id="main-feature">
       <h2>〜キレイな色のカエルの魅力〜</h2>
+      <div id="main-img"><img src="http://wordpressflogsite.local/wp-content/themes/flog_site/img/gura.jpg" class="img-fluid" alt="..."></div>
       <p class="main-feature">カエルなんて嫌い、気持ち悪い…と言う人も世の中にはいますが、</p>
       <p class="main-feature">私は色鮮やかで美しいカエルたちを見ていると心が和みます。</p>
       <p class="main-feature">人工的に着色、彩色された美しさではなく、自然が育んだ天然の色彩の美しさ。</p>
